@@ -380,7 +380,7 @@ Travel_Buddy/
 
 ## 👥 Contributors
 
-- Sai Priya Veerabomma
+- Vijay Rama Rao Pothuganti
 ---
 
 ## 📜 License
